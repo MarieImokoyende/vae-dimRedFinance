@@ -3,6 +3,10 @@ This notebook revolves on a full-cycle application of Variational AutoEncoders f
 It is designed to be used on finance data. 
 It is also about exploring the possibility of Index creation.
 
+##License
+This code is under AGPLv3 license.
+
+##The code
 As dataset, data from Yahoo Finance was used and anonimized.
 
 It is based on a pair of Python notebook files:
