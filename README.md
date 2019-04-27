@@ -7,7 +7,7 @@ It is also about exploring the possibility of Index creation.
 This code is under AGPLv3 license.
 
 ## The code
-As dataset, data from Yahoo Finance was used and anonimized.
+As dataset, data from Yahoo Finance was used and anonymized.
 
 It is based on a pair of Python notebook files:
 
